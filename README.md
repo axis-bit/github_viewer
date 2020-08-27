@@ -1,6 +1,8 @@
-# github_viewer
+# Github Viewer
 
-A new Flutter application.
+![スクリーンショット 2020-08-28 1 13 48](https://user-images.githubusercontent.com/9552135/91467618-c63b4680-e8cb-11ea-8e13-ba25a3365228.png)
+
+
 
 ## Getting Started
 
